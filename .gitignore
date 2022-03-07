@@ -34,6 +34,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+!BOM.csv
 
 ### KiCad Patch ###
 rescue-backup/
@@ -43,5 +44,6 @@ bom/
 
 # Gerber export output
 out/
+!USBto12V_v01.zip
 
 # End of https://www.toptal.com/developers/gitignore/api/kicad
