@@ -290,7 +290,7 @@
   )
 
   (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm" (layer "F.Cu")
-    (tedit 5D9F72B1) (tstamp 469f89fd-f629-46b7-b106-a0088168c9ec)
+    (tedit 622AF637) (tstamp 469f89fd-f629-46b7-b106-a0088168c9ec)
     (at 107 90)
     (descr "SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOP SO")
@@ -340,7 +340,7 @@
       (net 10 "Net-(L1-Pad1)") (pinfunction "Ipk") (pintype "input") (tstamp fdc57161-f7f8-4584-b0ec-8c1aa24339c6))
     (pad "8" smd roundrect (at 2.625 -1.905) (size 1.65 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "Net-(R1-Pad1)") (pinfunction "DC") (pintype "open_collector") (tstamp 5698a460-6e24-4857-84d8-4a43acd2325d))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-8_3.9x4.9mm_P1.27mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_3.9x5.05mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
